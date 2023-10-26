@@ -1,0 +1,4 @@
+com\example\crud2\backend\model\Pessoa.class
+com\example\crud2\backend\controller\HomeController.class
+com\example\crud2\backend\repositories\PessoaRepository.class
+com\example\crud2\backend\resource\PessoaResource.class
